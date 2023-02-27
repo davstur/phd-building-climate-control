@@ -17,7 +17,7 @@ The source code and documentation of the BRCM can soon be found in this reposito
 
 This only refers to my top 3 papers. For a list of all my papers, check my [Google Scholar profile](https://scholar.google.com/citations?user=m-92wOQAAAAJ&hl=en&oi=ao).
 
-### Model Predictive Climate Control of a Swiss Office Building: Implementation, Results, and Cost–Benefit Analysis 
+### Model Predictive Climate Control of a Swiss Office Building: Implementation, Results, and Cost–Benefit Analysis 
 
 [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/94992/TCST2016_Sturzenegger_building_MPC_AAM.pdf?sequence=2) (2015, IEEE Transactions on Control Systems Technology)
 
@@ -28,7 +28,7 @@ This paper reports the final results of the predictive building control project 
 [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/95075/2/ACC2014_Sturzenegger_BRCMToolbox_AAM.pdf) (2014, American Control Conference)
 
 Model predictive control (MPC) is a promising alternative in building control with the potential to improve energy efficiency and comfort and to enable demand response capabilities. Creating an accurate building model that is simple enough to allow the resulting MPC problem to be tractable is a challenging but crucial task in the control development.
-In this paper we introduce the Building Resistance-Capacitance Modeling (BRCM) Matlab Toolbox that facilitates the physical modeling of buildings for MPC. The Toolbox provides a means for the fast generation of (bi-)linear resistance-capacitance type models from basic building geometry, construction and systems data. Moreover, it supports the generation of the corresponding potentially time-varying costs and constraints. The Toolbox is based on previously validated modeling principles. In a case study a BRCM model was automatically generated from an EnergyPlus input data file and its predictive capabilities were compared to the EnergyPlus model. The Toolbox itself, the details of the modeling and the documentation can be found at www.brcm.ethz.ch.
+In this paper we introduce the Building Resistance-Capacitance Modeling (BRCM) Matlab Toolbox that facilitates the physical modeling of buildings for MPC. The Toolbox provides a means for the fast generation of (bi-)linear resistance-capacitance type models from basic building geometry, construction and systems data. Moreover, it supports the generation of the corresponding potentially time-varying costs and constraints. The Toolbox is based on previously validated modeling principles. In a case study a BRCM model was automatically generated from an EnergyPlus input data file and its predictive capabilities were compared to the EnergyPlus model.
 
 ### Importance of occupancy information for building climate control
 
