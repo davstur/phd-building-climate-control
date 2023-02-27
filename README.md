@@ -15,7 +15,7 @@ The source code and documentation of the BRCM can soon be found in this reposito
 
 ## Papers
 
-This only refers to my top 3 papers. For a list of all my papers, check my [Google Scholar profile](https://scholar.google.com/citations?user=m-92wOQAAAAJ&hl=en&oi=ao).
+For a list of all my papers, check my [Google Scholar profile](https://scholar.google.com/citations?user=m-92wOQAAAAJ&hl=en&oi=ao).
 
 ### Model Predictive Climate Control of a Swiss Office Building: Implementation, Results, and Cost–Benefit Analysis 
 
