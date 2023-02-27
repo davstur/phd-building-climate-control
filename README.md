@@ -1,6 +1,8 @@
 # Model Predictive Building Climate Control - Steps Towards Practice
 This repository holds my PhD thesis, the source code of the Matlab toolbox I developed for creating (bi)linear thermal models of buildings for use in control systems as well as links to my most important papers. 
 
+If you're interested in these topics, feel free to connect with me through [my LinkedIn profile](https://www.linkedin.com/in/david-sturzenegger/).
+
 ## Phd Thesis
 
 A PDF of my thesis is in this repository. 
